@@ -3,7 +3,7 @@
 const clear = require(`clear`);
 const chalk = require(`chalk`);
 const figlet = require(`figlet`);
-const { file, github, cli } = require(`./lib`);
+const { file, github } = require(`./lib`);
 
 // clear console and print title
 clear();
