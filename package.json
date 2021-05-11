@@ -31,7 +31,7 @@
     "configstore": "^5.0.1",
     "figlet": "^1.4.0",
     "inquirer": "^7.3.0",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "simple-git": "^2.11.0",
     "touch": "^3.1.0"
   }
